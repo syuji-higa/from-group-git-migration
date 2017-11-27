@@ -1,0 +1,6 @@
+{
+  "repoDomain": "github.com",
+  "repoUser"  : "sample",
+  "destRoot"  : "/Users/user/git-migration",
+  "repoJson"  : "data/repositorys.json"
+}

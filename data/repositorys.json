@@ -1,0 +1,5 @@
+[
+  "git@gitlab.sample.com:test/mig-1.git",
+  "git@gitlab.sample.com:test/mig-2.git",
+  "git@gitlab.sample.com:test/mig-3.git"
+]
