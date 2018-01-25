@@ -10,7 +10,7 @@ git@{ドメイン}:{ユーザ}/{グループ}--{リポジトリ}.git
 
 ## 設定
 `app/config.json`
-```json
+```
 {
   "repoDomain": "github.com",  // 移行先リポジトリのドメイン
   "repoUser"  : "sample",  // 移行先リポジトリのユーザ
